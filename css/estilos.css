@@ -49,6 +49,19 @@ vertical-align: middle;
 
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
+=======
+    padding: 1em;
+}
+
+#footer
+{
+    background: rgb(63, 23, 52);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    font-weight: bold;
+>>>>>>> footer
 }
